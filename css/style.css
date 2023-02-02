@@ -1,0 +1,43 @@
+body {
+    background-color: #7F3028;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#quote-box {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 20px;
+    max-width: 600px;
+}
+
+p {
+    margin: 20px 0;
+}
+
+#btn {
+    align-self: center;
+}
+
+#twitter {
+    align-self: center;
+}
+
+a,
+a:visited {
+    color: white;
+}
+
+@media screen and (max-width: 500px) {
+    body {
+        font-size: 25px;
+    }
+}
