@@ -1,0 +1,26 @@
+{
+  "name": "random-quote-machine",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Front End Development Libraries project - Build a Random Quote Generator",
+  "main": "index.html",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tupelobound/random-quote-machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tupelobound/random-quote-machine/issues"
+  },
+  "homepage": "https://github.com/tupelobound/random-quote-machine#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
