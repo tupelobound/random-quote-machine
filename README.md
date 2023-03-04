@@ -8,7 +8,7 @@ This project was originally part of the Intermediate Front End Development certi
 
 Main focus of certificate is interacting with APIs and using libraries such as JQuery and React.
 
-This project brief was to fulfill the following user stories:
+This project brief was to fulfill the following user stories. Over time, I've adapted the project and renamed some element ids, retaining functionality.
 
 1.  I can see a wrapper element with a corresponding id="quote-box".
 2.  Within #quote-box, I can see an element with a corresponding id="text".
